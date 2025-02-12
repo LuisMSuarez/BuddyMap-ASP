@@ -5,7 +5,7 @@ The goal of this site was to enable a social network of users "buddies" that all
 The main use case was to enable serendipitous ocurrences of buddies that are normally distant in the globe to meet up if they happened to be in close proximity.
 
 The advent of social networks such as facebook or myspace made this site obsolete and it was retired, still this was a great learning oportunity for me, and I feel proud of my hard work on this site.
-I worked singlehandedly on all aspects of this site, from coding the ASP files, registering and managing the domain name, designing and optimizing the DB schema in SQL (I used MS Access), building a Java Applet for visualization (see my MapPlotter repository), authoring all image and Adobe Flash assets, etc.
+I worked singlehandedly on all aspects of this site, from coding the ASP files, registering and managing the domain name, designing and optimizing the DB schema in SQL (I used MS Access), building a Java Applet for visualization (see my [MapPlotter](https://github.com/LuisMSuarez/MapPlotter) repository), authoring all image and Adobe Flash assets, etc.
 
 I was particularly pleased with:
 
